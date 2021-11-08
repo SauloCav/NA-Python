@@ -1,3 +1,3 @@
 # NA-Python
 
-Numerical Analysis in python
+Numerical Analysis with python
