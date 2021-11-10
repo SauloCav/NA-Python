@@ -3,10 +3,10 @@
 
 import math
 
-x = 0.1
+x = 0.11
 y = '0. '
 
-for i in range (10):
+for i in range (11):
     x = x * 2
     if int(x) == 0:
         y = y + '0'
