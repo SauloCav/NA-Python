@@ -17,3 +17,5 @@ for i in range(12):
   y = y + k2*h
   x = x + h
   print(x, y)
+
+print(f(1.2, 5.3756))
